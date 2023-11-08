@@ -1,1 +1,1 @@
-# <ins> Types of Fish </ins> :
+# <ins> Types of Fish: </ins>
