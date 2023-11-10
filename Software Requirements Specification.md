@@ -31,3 +31,5 @@ Players will only be able to play if they have access to a mouse and keyboard.
     - A restart button must be available upon game over.
     - Clicking on the restart button must clear the container and restart the game.
 
+# 4. Use Cases
+(WIP)
