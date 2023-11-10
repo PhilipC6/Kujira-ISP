@@ -19,3 +19,15 @@ The game will be hosted on a specific website for this project. The game will be
 
 ### 2.4 - Constraints
 Players will only be able to play if they have access to a mouse and keyboard.
+
+# 3. Functional Requirements
+
+### 3.1 - Player Requirements
+1. Player must be able to move held fish left and right within the specified borders of the container.
+    - Left and right keyboard keys must correspond to the fish moving accordingly.
+2. Player must be able to drop the held fish into the container.
+    - Spacebar must correspond to the fish dropping.
+3. Player must be able to restart the game without refreshing the page.
+    - A restart button must be available upon game over.
+    - Clicking on the restart button must clear the container and restart the game.
+
