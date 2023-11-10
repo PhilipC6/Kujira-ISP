@@ -33,3 +33,13 @@ Players will only be able to play if they have access to a mouse and keyboard.
 
 # 4. Use Cases
 (WIP)
+
+# 5. External Requirements
+
+### 5.1 - User Interfaces
+1. Held fish
+2. Preview of next fish
+3. Container and fish within
+4. Score
+5. Final score (upon game over)
+6. Restart button (upon game over)
