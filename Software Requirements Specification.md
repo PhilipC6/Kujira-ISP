@@ -32,7 +32,11 @@ Players will only be able to play if they have access to a mouse and keyboard.
     - Clicking on the restart button must clear the container and restart the game.
 
 # 4. Use Cases
-(WIP)
+
+### 4.1 - Merging Fish
+![Image of use cases for merging fish](/BaseCase.png)
+
+Fish of the same type should merge when they touch, creating the next smallest fish on the list. This process will repeat for every fish until a whale is created.
 
 # 5. External Requirements
 
