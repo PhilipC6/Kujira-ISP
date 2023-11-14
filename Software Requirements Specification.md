@@ -38,6 +38,11 @@ Players will only be able to play if they have access to a mouse and keyboard.
 
 Fish of the same type should merge when they touch, creating the next smallest fish on the list. This process will repeat for every fish until a whale is created.
 
+### 4.2 - Fish Types Interaction Chart
+![Image of the different interactions between fish types](/FishInteraction.PNG)
+
+The image shows how each fish functions when it touches another fish.
+
 # 5. External Requirements
 
 ### 5.1 - User Interfaces
