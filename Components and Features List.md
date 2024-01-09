@@ -5,7 +5,7 @@
 4. Cuttlefish (10 in.)
 5. Blob fish (1 ft.)
 6. Atlantic Salmon (3 ft.)
-7. Dolphin (8 ft.)
+7. Turtle (8 ft.)
 8. Tiger Shark (18 ft.)
 9. Orca (27 ft.)
 10. Humpback Whale (50 ft.)
