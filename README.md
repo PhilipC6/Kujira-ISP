@@ -6,4 +6,4 @@ We plan to make a game using Godot where the player drags and drops different fi
 - Project Manager: Anjie O.
 - Release Manager: Philip C.
 - UI/UX Designer: Nick S.
-- QA Analyst: Philip C.
+- QA Analyst: Isaac L.
