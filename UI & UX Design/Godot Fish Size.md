@@ -16,3 +16,6 @@ On the Sprite2D, input numbers on scale. Both the X and Y components should be t
 - Tiger Shark: WIP
 - Orca: (Design not finished)
 - Whale: (Design not finished)
+
+### Where to input collision shape sizes:
+On the CollisionShape2D, (WIP)
