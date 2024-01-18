@@ -3,7 +3,7 @@
 ### Where to input fish sizes: 
 On the Sprite2D, input numbers on scale. Both the X and Y components should be the same. 
 #### Example:
-![image](https://github.com/PhilipC6/Kujira-ISP/assets/111088925/3088531e-7b29-48f0-941a-5257838edb5b)
+![Fish Size Input Example](https://github.com/PhilipC6/Kujira-ISP/assets/111088925/3088531e-7b29-48f0-941a-5257838edb5b)
 
 ### Fish Sizes (SIZES STILL MAY CHANGE):
 - Betta Fish: 0.095
@@ -16,6 +16,3 @@ On the Sprite2D, input numbers on scale. Both the X and Y components should be t
 - Tiger Shark: WIP
 - Orca: (Design not finished)
 - Whale: (Design not finished)
-
-### Where to input collision shape sizes:
-On the CollisionShape2D, (WIP)
