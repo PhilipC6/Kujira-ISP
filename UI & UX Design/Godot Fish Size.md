@@ -12,7 +12,7 @@ On the Sprite2D, input numbers on scale. Both the X and Y components should be t
 - Cuttlefish: 0.06
 - Blob Fish: 0.06
 - Salmon: 0.116
-- Turtle: (Design not finished)
-- Tiger Shark: WIP
+- Turtle: 0.158
+- Tiger Shark: 0.211
 - Orca: (Design not finished)
 - Whale: (Design not finished)
