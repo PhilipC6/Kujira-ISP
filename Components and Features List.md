@@ -1,14 +1,14 @@
 # <ins> Types of Fish: </ins>
 1. Betta Fish (2 in.)
-2. Sardine (6 in.)
-3. Goldfish (8 in.)
-4. Cuttlefish (10 in.)
-5. Blob fish (1 ft.)
-6. Atlantic Salmon (3 ft.)
-7. Turtle (8 ft.)
-8. Tiger Shark (18 ft.)
-9. Orca (27 ft.)
-10. Humpback Whale (50 ft.)
+2. Sardine (6 in.) - 1 pt
+3. Goldfish (8 in.) - 5 pts
+4. Cuttlefish (10 in.) - 10 pts
+5. Blob fish (1 ft.) - 20 pts
+6. Atlantic Salmon (3 ft.) - 50 pts
+7. Turtle (8 ft.) - 100 pts
+8. Tiger Shark (18 ft.) - 200 pts
+9. Orca (27 ft.) - 500 pts
+10. Humpback Whale (50 ft.) - 1000 pts
 
 # <ins> Basic Features: </ins>
 
